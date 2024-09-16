@@ -5,4 +5,3 @@ int valor = 10;
 int resultado = numero?? valor;
 Console.WriteLine(resultado);
 
-
